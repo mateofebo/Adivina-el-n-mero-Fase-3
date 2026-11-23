@@ -18,10 +18,7 @@ Juego para dos personas: cada participante adivina un número secreto entre 1 y 
 - Video explicativo de Fase 3: enlace de Google Drive en la sección siguiente.
 
 ## Video explicativo de la Fase 3
-[Ver video explicativo en Google Drive](https://drive.google.com/file/d/1aZEozr-VNM_V463jvc8mlbIOYrxPNRoc/view?usp=drivesdk)
-
-**Nota:** Verificar que el enlace permita acceso al profesor.
-
+[Ver video explicativo en Google Drive](https://drive.google.com/file/d/1aZEozr-VNM_V463jvc8mlbIOYrxPNRoc/view?usp=
 ## Ejecutar
 Se requiere Python 3 con Tkinter y compilador C++17.
 
