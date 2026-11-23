@@ -39,8 +39,3 @@ Cada partida tiene un número secreto diferente por jugador. El deshacer retira 
 ## Autoría, créditos y uso de IA
 Trabajo del equipo Mateo Fernández y Diego García. Se utilizó ChatGPT (OpenAI) como apoyo para elaborar borradores de código, documentación y organización del proyecto. Los integrantes deben revisar, comprender y probar el contenido antes de entregarlo. Python, Tkinter y C++ son tecnologías usadas; consultar sus respectivas documentaciones oficiales. No se incorporaron imágenes de terceros en el código.
 
-## Licencia
-Se incluye una propuesta de licencia MIT en `LICENSE`; ambos integrantes deben aprobarla antes de publicar el repositorio.
-
-## Estado
-Prototipo inicial de Fase 3. Revisar la integración, la interfaz y los casos de prueba en el equipo antes de la entrega.
